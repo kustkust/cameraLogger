@@ -1,0 +1,10 @@
+[2023-02-21 21:05:24,570: ERROR] Uchaly dose not response the last 10.06 seconds
+[2023-02-21 21:05:24,572: ERROR] Urga dose not response the last 10.06 seconds
+[2023-02-21 21:05:28,050: INFO] script:Urga; camera status online; script status work
+[2023-02-21 21:05:29,575: ERROR] Uchaly dose not response the last 15.06 seconds
+[2023-02-21 21:05:34,586: ERROR] Uchaly dose not response the last 20.08 seconds
+[2023-02-21 21:05:39,596: ERROR] Uchaly dose not response the last 25.09 seconds
+[2023-02-21 21:05:39,597: ERROR] Urga dose not response the last 11.55 seconds
+[2023-02-21 21:05:44,437: INFO] script:Uchaly; camera status online; script status work
+[2023-02-21 21:05:44,592: ERROR] Urga dose not response the last 16.54 seconds
+[2023-02-21 21:05:49,603: ERROR] Urga dose not response the last 21.55 seconds
